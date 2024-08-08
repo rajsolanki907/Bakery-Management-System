@@ -1,0 +1,5 @@
+This is a Python Script Developed By Raj Kumar the Author of this Git.
+This Script run solely on python and this can be used for the management of the 
+orders in a Bakery or a shop.
+
+In this Script the user can add the orders, view the orders, update the orders, remove the orders and also save the list of orders by the person name, order id, quantity and the date of the order placed into an Excel File.
